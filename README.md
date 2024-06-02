@@ -122,9 +122,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hlainghpone1/count.svg?"  />
-</div>
-
-###
