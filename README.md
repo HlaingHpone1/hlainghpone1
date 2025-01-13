@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning React and TypeScript<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Games and Animation</p>
+<p align="right">🌱 I'm currently learning express <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Games and Animation</p>
 
 ###
 
@@ -60,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/71302-express.js-chrome-javascript-system-node.js-v8-runtime_1687631713.png" height="50" alt="node js logo"  />
+  <img width="20" />
+  <img src="https://lh4.googleusercontent.com/proxy/JNrXGmh7wqXKvM_997irXd_4SZ_jk1Kpsl3iLnKCZKbaso2y34XKMbcWsX514phEFKWmYgw-e9QL0UEA2clKoi0ApxPW87jbw-Wp" height="50" alt="express js logo"  />
 </div>
 
 ###
