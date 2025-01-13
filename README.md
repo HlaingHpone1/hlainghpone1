@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<h2 align="left">Recently Used Apps</h2>
+<h2 align="left">Development Tools</h2>
 
 ###
 
@@ -75,7 +75,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode logo"  />
+  <img src="https://tidalcycles.org/assets/images/vscodeicon-42dc264fde2adb74cc197fe6d02b183c.png" height="50" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
   <img width="20" />
