@@ -18,7 +18,7 @@
 
 ###
 
-<p align="right">🌱 I'm currently learning express <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Games and Animation</p>
+<p align="left">🌱 I'm currently learning express <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Games and Animation</p>
 
 ###
 
